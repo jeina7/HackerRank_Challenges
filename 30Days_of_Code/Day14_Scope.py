@@ -1,3 +1,7 @@
+# Hackerrank 30 Days of code Challenge
+# https://www.hackerrank.com/domains/tutorials/30-days-of-code
+# Day 14
+
 class Difference:
     def __init__(self, a):
         self.__elements = a
