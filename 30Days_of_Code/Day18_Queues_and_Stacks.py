@@ -1,3 +1,7 @@
+# Hackerrank 30 Days of code Challenge
+# https://www.hackerrank.com/domains/tutorials/30-days-of-code
+# Day 18
+
 import sys
 
 class Solution:
@@ -44,4 +48,4 @@ for i in range(l // 2):
 if isPalindrome:
     print("The word, "+s+", is a palindrome.")
 else:
-    print("The word, "+s+", is not a palindrome.")    
+    print("The word, "+s+", is not a palindrome.")
