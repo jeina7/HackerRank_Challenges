@@ -25,9 +25,6 @@ process.stdin.on('end', _ => {
 function readLine() {
     return inputString[currentLine++];
 }
-/*
- * Create the function factorial here
- */
 
 function factorial(n) {
     if (n == 1) {
